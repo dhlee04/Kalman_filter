@@ -1,3 +1,9 @@
+#include <iostream>
+#include <math.h>
+#include <tuple>
+
+using namespace std;
+
 double new_mean, new_var;
 
 tuple<double, double> state_prediction(double mean1, double var1, double mean2, double var2)
