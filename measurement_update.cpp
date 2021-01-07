@@ -1,6 +1,7 @@
 // In this C++ code, the measurement update function returns two values: the newly computed mean and variance. 
 // Usually, a tuple or struct should be used in C++ to return more than one value from a function and easily assign them later to multiple variables. 
 // For more information on tuples and structs take a look at this link.(Searcg "Returning Multiple Values from Functions in C++" in google.)
+// make_tuple() 튜플을 만드는 함수
 
 #include <iostream>
 #include <math.h>
