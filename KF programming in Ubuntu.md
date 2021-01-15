@@ -1,4 +1,3 @@
-# Kalman_filter excercise
 ## installation order: Ubuntu > ROS_kinetic > Anaconda navigator > VScode
 ## 1. Ubuntu_16.04 LTS Installation
 First, follow the instructions in the link below to create a USB boot disk.
