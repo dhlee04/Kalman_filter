@@ -10,7 +10,7 @@ https://jimnong.tistory.com/676
 # 2. ROS_kinetic installation
 Because an unknown error may occur when you install the Anaconda first, you must install the ROS first.
  - ROSwiki official instruction link: http://wiki.ros.org/kinetic/Installation/Ubuntu
- - bash command: wget https://raw.githubusercontent.com/ROBOTIS-GIT/robotis_tools/master/install_ros_kinetic.sh && chmod 755 ./install_ros_kinetic.sh && 
+ - wget https://raw.githubusercontent.com/ROBOTIS-GIT/robotis_tools/master/install_ros_kinetic.sh && chmod 755 ./install_ros_kinetic.sh && 
  - bash ./install_ros_kinetic.sh
  
 # 3. Anaconda-navigation installation in Ubuntu 16.04 with Microsoft VScode
